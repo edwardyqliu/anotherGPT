@@ -14,7 +14,7 @@ To create a **fast, flexible, semi-modular** framework to write customized GPT a
 **Stream/Not Stream GPT output** 
 
 ## Demo
-[streamlit-travel-agent-demo.webm](https://github.com/edwardyqliu/anotherGPT/assets/114708188/9fbb0c8f-3b59-4815-91be-a5fc9e4cc3d7)
+[streamlit-travel-agent-demo.webm](https://github.com/edwardyqliu/anotherGPT/assets/114708188/1fcf3c80-bca7-45a9-aa47-33c43bebdda3)
 
 
 This is a travel agent demo. After GPT chooses to enter the travel agent process, it chooses (or asks) whether the user is asking for guides or attractions. If guides, it shows it directly in the database. If attractions, it asks the user for permission first, then creates a classifier (and adds it to the stack) and shows the list of attractions there.
